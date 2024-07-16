@@ -38,7 +38,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Mis Estadisticas:](https://github-readme-stats.vercel.app/api?username=marcusHollw&hide=contribs,prs)
+![Mis Estadisticas:](https://github-readme-stats.vercel.app/api?username=marcusHollw)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusHollw&theme=onedark)]
 
