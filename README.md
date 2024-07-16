@@ -1,20 +1,21 @@
 ### Hey 👋🏽, I'm [Marcus!](https://github.com/marcusHollw/marcusHollw) 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=marcusHollw.visitor-badge)
+<img src="https://komarev.com/ghpvc/?username=marcusHollw&label=Profile%20views&color=blueviolet&style=flat" alt="marcusHollw"/></p>
 <br/>
-<a href="https://www.linkedin.com/in/devangipurkayastha/">
-  <img align="left" alt="Devangi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<!--
+<a href="">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/devangi___/">
-  <img align="left" alt="Devangi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/devangi2000/">
-  <img align="left" alt="Devangi's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<a href="">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://www.hackerrank.com/devangipurkayas1/">
-  <img align="left" alt="Devangi's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
+-->
 <br />
 <br />
 
@@ -39,10 +40,6 @@
 
 ![Mis Estadisticas:](https://github-readme-stats.devangi2000.vercel.app/api?username=marcusHollw&show_icons=true&hide_border=true&theme=radical")
 
-<!--
-<a href="https://github.com/devangi2000/mnist-flask">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=mnist-flask" />
-</a> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusHollw&theme=onedark)]
 
 ⭐️ Creditos: [devangi2000](https://github.com/devangi2000)
